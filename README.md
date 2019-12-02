@@ -1,2 +1,2 @@
-# ACiDS-NU.github.io
-github page
+# ACiDS test of RISEjs
+Testing RISEjs to make slides shareable via hmtl for meetings
